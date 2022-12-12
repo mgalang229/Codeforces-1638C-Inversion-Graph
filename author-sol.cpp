@@ -3,7 +3,67 @@ using namespace std;
 
 /*
 
+sample input:
+1
+9
+2 1 6 7 5 8 9 3 4
 
+process:
+largest = 2
+to remove:
+
+max elements:
+2 
+
+largest = 2
+to remove:
+2 
+max elements:
+2 
+
+largest = 6
+to remove:
+none
+max elements:
+2 6 
+
+largest = 7
+to remove:
+none
+max elements:
+2 6 7 
+
+largest = 7
+to remove:
+6 7 
+max elements:
+2 7 
+
+largest = 8
+to remove:
+none
+max elements:
+2 7 8 
+
+largest = 9
+to remove:
+none
+max elements:
+2 7 8 9 
+
+largest = 9
+to remove:
+7 8 9 
+max elements:
+2 9 
+
+largest = 9
+to remove:
+9 
+max elements:
+2 9
+
+answer = 2
 
 */
 
